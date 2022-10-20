@@ -13,8 +13,9 @@ This multivariate time series dataset can be used to train and evaluate various 
 
 
 ## 🤫 How to get access to the dataset?
-This dataset is protected with the most strict license (CC-BY-NC-ND-4.0). TL;DR No commerical, no derivatieves of the data, give appropriate credit when used.
-In addition to the license, we only release the dataset for those who intend to use the dataset for **RESEARCH PURPOSES only.** and you are not supposed to redistribute the data without our permission.
+This dataset is protected with the most strict license (CC-BY-NC-ND-4.0). TL;DR No commercial, no derivatives of the data, give appropriate credit when used.
+
+In addition to the license, we only release the dataset for those who intend to use the dataset for **RESEARCH PURPOSES only.** You are not supposed to redistribute the data without our permission.
 Those who wish to get access, please submit the below google form.
 
 
