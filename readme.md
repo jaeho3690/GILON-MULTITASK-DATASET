@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="figures/gilonlogo.png" alt="GILON Logo" height="500"/>
+    <img src="figures/gilonlogo.png" alt="GILON Logo" height="300"/>
 </p>
 
 # The GILON Multi-task Dataset
