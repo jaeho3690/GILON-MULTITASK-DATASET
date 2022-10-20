@@ -2,7 +2,7 @@
     <img src="figures/gilonlogo.png" alt="GILON Logo" height="300"/>
 </p>
 
-# The GILON Multi-task Dataset
+## 🍫 The GILON Multi-task Dataset
 
 Greeting from the GILON Multi-task Dataset!
 
@@ -12,18 +12,23 @@ Three different labels are given to each data chunk: type of action, running spe
 This multivariate time series dataset can be used to train and evaluate various applications with time series data, such as multi-task learning, time series classification, time series clustering, etc.
 
 
-# How to get access to the dataset?
-This dataset is protected with the most strict license (CC-BY-NC-ND-4.0). In addition to the license, we only release the dataset for those who intend to use the dataset for **research purposes only.**
-Those who wish
+## 🤫 How to get access to the dataset?
+This dataset is protected with the most strict license (CC-BY-NC-ND-4.0). TL;DR No commerical, no derivatieves of the data, give appropriate credit when used.
+In addition to the license, we only release the dataset for those who intend to use the dataset for **RESEARCH PURPOSES only.** and you are not supposed to redistribute the data without our permission.
+Those who wish to get access, please submit the below google form.
 
 
-# Citation
+[📩 GOOGLE FORM 📩](https://forms.gle/QaS1BnGdYDixgEjJ6)
+
+
+
+## 📝 Citation
 If you have used our dataset, please cite our work below
 ```
 
 ```
 
-# License
+## 👩‍⚖️ License
 Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
 This license is one of the most restrictive Creative Commons licenses. 
 
