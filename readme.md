@@ -26,7 +26,10 @@ Those who wish to get access, please submit the below google form.
 ## 📝 Citation
 If you have used our dataset, please cite our work below. Currently, the work is being validated in a single blind process.
 ```
-
+@misc{Kim_GILON-MULTITASK_DATASET,
+author = {Kim, Jaeho and Kang, Hyewon and Yang , Jaewan and Jung, Haneul and Lee, Seulki and Lee, Junghye},
+title = {{GILON-MULTITASK DATASET}}
+}
 ```
 
 ## 👩‍⚖️ License
