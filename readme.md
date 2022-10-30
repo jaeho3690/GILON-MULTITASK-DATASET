@@ -21,7 +21,27 @@ Those who wish to get access, please submit the below google form.
 
 [📩 GOOGLE FORM 📩](https://forms.gle/QaS1BnGdYDixgEjJ6)
 
+## 😽 Whatsup data?
+We will send you a link containing four files if your application is processed.
+```
+test_feature_chunk40_window160_72users.csv
+train_feature_chunk40_window160_72users.csv
+test_label_chunk40_window160_72users.csv
+train_label_chunk40_window160_72users.csv
+```
+The **feature** file contains the raw sensor signals collected from the 14 different sensors in the smart insole.
+```
+[x_R, y_R, z_R, x_L, y_L, z_L, fsr1_R, fsr2_R, fsr3_R, fsr4_R, fsr1_L, fsr2_L, fsr3_L, fsr4_L]
+```
+Here, [x,y,z] represents the three-axis accelerometer, and [fsr] represents the FSR sensors. R and L mean right and left, respectively.
+The EXP column indicates the experiment number set. The GLOBAL_ID represents the global indicating number of the chunk. This can be used
+to match the GLOBAL_ID in the label files.
 
+Here is a snippet of how our feature file looks
+<p align="center">
+    <img src="figures/data_snippet.png" alt="datasnippet" height="300"/>
+</p>
+The train and test file contains 50 users and 22 users each. A five-fold split has been done on the training set and the users do not overlap between splits.
 
 ## 📝 Citation
 If you have used our dataset, please cite our work below. Currently, the work is being validated in a single blind process.
