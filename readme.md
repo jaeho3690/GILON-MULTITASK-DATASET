@@ -24,7 +24,7 @@ Those who wish to get access, please submit the below google form.
 
 
 ## 📝 Citation
-If you have used our dataset, please cite our work below
+If you have used our dataset, please cite our work below. Currently, the work is being validated in a single blind process.
 ```
 
 ```

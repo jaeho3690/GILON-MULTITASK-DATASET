@@ -1,0 +1,36 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: GILON-MULTITASK DATASET
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file. The research used to make
+  this dataset is currently under single-blind
+  review.
+type: dataset
+authors:
+  - given-names: Jaeho
+    email: kjh3690@unist.ac.kr
+    affiliation: UNIST
+    family-names: Kim
+  - given-names: Hyewon
+    email: hwkang91@unist.ac.kr
+    affiliation: UNIST
+    family-names: Kang
+  - given-names: Jaewan
+    name-particle: Yang
+    email: jayyang@gilon.co.kr
+    affiliation: ' Gilon, INC'
+  - given-names: Haneul
+    family-names: Jung
+    email: cielo@gilon.co.kr
+    affiliation: 'Gilon, INC'
+  - given-names: Seulki
+    family-names: Lee
+    email: seulki.lee@unist.ac.kr
+    affiliation: UNIST
+  - given-names: Junghye
+    family-names: Lee
+    email: junghyelee@unist.ac.kr
+    affiliation: UNIST
